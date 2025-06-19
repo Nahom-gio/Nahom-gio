@@ -1,27 +1,18 @@
-## What's Changed
+# 💫 About Me:
+i am currently pursuing software engineering degree. 
 
-* Fixed "Saturation" blend mode for layers [#4593](https://github.com/aseprite/aseprite/issues/4593)
-* Fixed drawing semi-transparent slices on the canvas [#5027](https://github.com/aseprite/aseprite/pull/5027)
-* Fixed straight line via <kbd>Shift + click</kbd> on Tiled mode [#4999](https://github.com/aseprite/aseprite/issues/4999) (thanks to [@lightovernight](https://github.com/aseprite/aseprite/pull/5029)) and tilemaps on manual mode [#4623](https://github.com/aseprite/aseprite/issues/4623)
-* Fixed onionskin bug switching layer visibility [#4969](https://github.com/aseprite/aseprite/issues/4969)
-* Fixed crash rendering sprites with custom pixel ratios [#4632](https://github.com/aseprite/aseprite/issues/4632)
-* Fixed timeline thumbnails to use the full available space [#4974](https://github.com/aseprite/aseprite/issues/4974)
-* Lua API:
-  * Update [API version](https://www.aseprite.org/api/app#appapiversion) to 32
-  * Don't allow to set invalid pixel ratios for sprites [#3285](https://github.com/aseprite/aseprite/issues/3285)
-  * Fixed `Image:drawImage()` when `BlendMode.SRC` is used [#5001](https://github.com/aseprite/aseprite/issues/5001)
 
-## Merged PRs
-* Fix timeline thumbnail zoom can't scale beyond 1:1 pixels (fix [#4974]) by @Gasparoken in https://github.com/aseprite/aseprite/pull/4992
-* Fix crash with custom pixel ratios (e.g. Size(4, 3)) (fix [#4632]) by @Gasparoken in https://github.com/aseprite/aseprite/pull/4965
-* Fix image:drawImage+BlendMode.SRC doesn't draw mask pixels (fix [#5001]) by @Gasparoken in https://github.com/aseprite/aseprite/pull/5004
-* Fix "Straight Line from Last Point” bug in Tilemaps (fix [#4623]) by @Gasparoken in https://github.com/aseprite/aseprite/pull/4949
-* Fix onionskin visiblity is not updated if cel is empty (fix [#4969]) by @Gasparoken in https://github.com/aseprite/aseprite/pull/4994
-* Fix Straight line via SHIFT + Tiled mode starts at wrong position by @lightovernight in https://github.com/aseprite/aseprite/pull/5029
-* Fix set_sat() blend function by @Liebranca in https://github.com/aseprite/aseprite/pull/5002
-* Fix when Slices are set to a semi-transparent color they become opaque as we draw by @Gasparoken in https://github.com/aseprite/aseprite/pull/5027
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nahom-g-giorgies/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nahom Gebregiorgis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nahomesd@gmail.com) 
 
-## New Contributors
-* @lightovernight made their first contribution in https://github.com/aseprite/aseprite/pull/5029
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nahom-gio&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nahom-gio&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahom-gio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-**Full Changelog**: https://github.com/aseprite/aseprite/compare/v1.3.12...v1.3.13
+---
+[![](https://visitcount.itsvg.in/api?id=Nahom-gio&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
