@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **AI-powered workflow systems, backend automation pipelines, and production-grade platform tools<br>- 👯 I’m looking to collaborate on **Node.js/TypeScript backend systems, AI product engineering, and developer tooling<br>- 🤝 I’m looking for help with **advanced distributed systems patterns, performance optimization, and cloud-native scaling<br>- 🌱 I’m currently learning **deeper systems design, self-hosted SaaS architecture, and production AI reliability<br>
+-  I’m currently working on **AI-powered workflow systems, backend automation pipelines, and production-grade platform tools<br>-  I’m looking to collaborate on **Node.js/TypeScript backend systems, AI product engineering, and developer tooling<br>-  I’m looking for help with **advanced distributed systems patterns, performance optimization, and cloud-native scaling<br>- I’m currently learning **deeper systems design, self-hosted SaaS architecture, and production AI reliability<br>
 
 
 # 💻 Tech Stack:
